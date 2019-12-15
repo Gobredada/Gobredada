@@ -1,2 +1,2 @@
 print("Hello world");
-print("again again Top of the morning");
+print("Top of the morning");
